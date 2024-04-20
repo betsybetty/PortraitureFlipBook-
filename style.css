@@ -99,60 +99,62 @@ input {
     left: 1rem;
 }
 #p1{
-    z-index: 18;
+    z-index: 19;
 }
 #p2{
-    z-index: 17;
+    z-index: 18;
 }
 #p3{
-    z-index: 16;
+    z-index: 17;
 }
 #p4{
-    z-index: 15;
+    z-index: 16;
 }
 #p5{
-    z-index: 14;
+    z-index: 15;
 }
 #p6{
-    z-index: 13;
+    z-index: 14;
 }
 #p7{
-    z-index: 12;
+    z-index: 13;
 }
 #p8{
-    z-index: 11;
+    z-index: 12;
 }
 #p9{
-    z-index: 10;
+    z-index: 11;
 }
 #p10{
-    z-index: 9;
+    z-index: 10;
 }
 #p11{
-    z-index: 8;
+    z-index: 9;
 }
 #p12{
-    z-index: 7;
+    z-index: 8;
 }
 #p13{
-    z-index: 6;
+    z-index: 7;
 }
 #p14{
-    z-index: 5;
+    z-index: 6;
 }
 #p15{
-    z-index: 4;
+    z-index: 5;
 }
 #p16{
-    z-index: 3;
+    z-index: 4;
 }
 #p17{
-    z-index: 2;
+    z-index: 3;
 }
 #p18{
+    z-index: 2;
+}
+#p19{
     z-index: 1;
 }
-
 
 #checkbox-cover:checked ~ .book {
     transform: translateX(200px);
@@ -239,4 +241,7 @@ input {
 #checkbox-p18:checked ~ .book #p18{
     transform: rotateY(-180deg);
     z-index: 19;
+}#checkbox-p19:checked ~ .book #p19{
+    transform: rotateY(-180deg);
+    z-index: 20;
 }
