@@ -245,11 +245,11 @@ input {
     transform: rotateY(-180deg);
     z-index: 19;
 }
-}#checkbox-p19:checked ~ .book #p19{
+#checkbox-p19:checked ~ .book #p19{
     transform: rotateY(-180deg);
     z-index: 20;
 }
-}#checkbox-p20:checked ~ .book #p20{
+#checkbox-p20:checked ~ .book #p20{
     transform: rotateY(-180deg);
     z-index: 21;
 }
