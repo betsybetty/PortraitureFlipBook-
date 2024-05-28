@@ -99,69 +99,72 @@ input {
     left: 1rem;
 }
 #p1{
-    z-index: 22;
+    z-index: 23;
 }
 #p2{
-    z-index: 21;
+    z-index: 22;
 }
 #p3{
-    z-index: 20;
+    z-index: 21;
 }
 #p4{
-    z-index: 19;
+    z-index: 20;
 }
 #p5{
-    z-index: 18;
+    z-index: 19;
 }
 #p6{
-    z-index: 17;
+    z-index: 18;
 }
 #p7{
-    z-index: 16;
+    z-index: 17;
 }
 #p8{
-    z-index: 15;
+    z-index: 16;
 }
 #p9{
-    z-index: 14;
+    z-index: 15;
 }
 #p10{
-    z-index: 13;
+    z-index: 14;
 }
 #p11{
-    z-index: 12;
+    z-index: 13;
 }
 #p12{
-    z-index: 11;
+    z-index: 12;
 }
 #p13{
-    z-index: 10;
+    z-index: 11;
 }
 #p14{
-    z-index: 9;
+    z-index: 10;
 }
 #p15{
-    z-index: 8;
+    z-index: 9;
 }
 #p16{
-    z-index: 7;
+    z-index: 8;
 }
 #p17{
-    z-index: 6;
+    z-index: 7;
 }
 #p18{
-    z-index: 5;
+    z-index: 6;
 }
 #p19{
-    z-index: 4;
+    z-index: 5;
 }
 #p20{
-    z-index: 3;
+    z-index: 4;
 }
 #p21{
-    z-index: 2;
+    z-index: 3;
 }
 #p22{
+    z-index: 2;
+}
+#p23{
     z-index: 1;
 }
 
