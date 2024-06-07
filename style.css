@@ -273,7 +273,13 @@ input {
 #checkbox-p22:checked ~ .book #p22{
     transform: rotateY(-180deg);
     z-index: 23;
+}
 #checkbox-p23:checked ~ .book #p23{
     transform: rotateY(-180deg);
     z-index: 24;
 }
+#checkbox-p24:checked ~ .book #p24{
+    transform: rotateY(-180deg);
+    z-index: 25;
+}
+
