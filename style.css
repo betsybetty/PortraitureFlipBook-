@@ -288,4 +288,11 @@ input {
     transform: rotateY(-180deg);
     z-index: 26;
 }
-
+#checkbox-p26:checked ~ .book #p26{
+    transform: rotateY(-180deg);
+    z-index: 27;
+}
+#checkbox-p27:checked ~ .book #p27{
+    transform: rotateY(-180deg);
+    z-index: 28;
+}
